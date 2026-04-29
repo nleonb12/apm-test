@@ -1,9 +1,0 @@
-name: apm-test
-version: 1.0.0
-description: Skills for our team's review workflow
-author: Nitin Bahri
-dependencies:
-  apm: []
-  mcp: []
-includes: auto
-scripts: {}
